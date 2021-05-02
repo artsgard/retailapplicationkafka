@@ -1,0 +1,6 @@
+kafka:
+  bootstrapAddress: localhost:9092
+
+partitioned:
+  topic:
+    name: partitioned
